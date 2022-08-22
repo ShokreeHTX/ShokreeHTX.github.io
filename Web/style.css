@@ -1,0 +1,77 @@
+
+body {
+    background-image: url(https://c.tenor.com/5h-E8J9rnowAAAAC/donald-trump-dancing.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top; 
+}
+a {
+    text-decoration: none;
+    color: black;
+    display: block;
+    border: 1px solid rgb(0, 0, 0);
+    padding: 50px;
+    margin: 30px;
+    background-color:none;
+    float: left;
+    box-shadow: 10px 10px 15px lightblue;
+    border-radius: 25px;
+
+   
+}
+
+
+
+  .nav{
+    justify-content: center;
+    align-items: center;
+    display:flex;
+    height: 100%;
+    font-size: x-large;
+
+}
+
+
+
+ul#link {
+    
+    list-style: none;
+    padding: 20px;
+}
+
+
+ul#link li {
+    display: inline;
+
+
+
+    
+    width: 10px;
+   
+
+
+}
+
+a:hover {
+    background-color: rgb(245, 245, 200);
+        
+}
+
+
+div#box {
+    background-color: none;
+    width: 100%;
+    height: 50px;
+    transition: 5s;    
+    box-shadow: 10px 10px 5px lightblue;
+    border-radius: 0px 25px 25px 0px;
+    text-align: center;
+
+
+}
+
+div#box:hover {
+    width: 15%;
+    
+    
+}
