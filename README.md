@@ -1,2 +1,2 @@
 # ShokreeHTX.github.io
-[IDK hjemmeside](web/Index.html)
+[IDK hjemmeside](web/index.html)
